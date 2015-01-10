@@ -1,0 +1,21 @@
+{
+  "name": "c148a360a1827d819ab",
+  "version": "0.0.1",
+  "description": "c148a360a1827d819ab app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.10.2",
+    "socket.io": "^1.2.1"
+  },
+  "engines": {
+    "node": "0.10.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/whistlas/c148a360a1827d819a"
+  }
+  
+}
